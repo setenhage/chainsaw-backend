@@ -6,4 +6,9 @@
 4. run: python manage.py migrate
 5. run: python manage.py runserver
 
+Next time: 
+1. make sure you are in top-level folder
+2. run: source venv/bin/activate
+(3. run: python manage.py migrate)
+4. run: python manage.py runserver
 
